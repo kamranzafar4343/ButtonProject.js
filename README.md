@@ -4,11 +4,9 @@
 This simple web project features a button that, when clicked, changes the background color of the page. The implementation utilizes the `onclick` property of HTML, CSS Flexbox for layout styling, and a JavaScript function named `changeColor()`.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Installation
@@ -29,10 +27,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust the README file according to your preferences and provide more specific information about your project. If you have any other requests or questions, feel free to ask!
