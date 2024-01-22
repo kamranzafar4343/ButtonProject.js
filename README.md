@@ -12,7 +12,7 @@ This simple web project features a button that, when clicked, changes the backgr
 ## Installation
 1. Clone the repository or download the ZIP file.
    ```bash
-   git clone https://github.com/your-username/buttonproject.git
+   git clone https://github.com/kamranzafar4343/buttonproject.git
    ```
 2. Open the project folder in your preferred code editor.
 
