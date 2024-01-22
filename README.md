@@ -10,10 +10,6 @@ This simple web project features a button that, when clicked, changes the backgr
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-![Button Project Demo](demo.gif)
-
-[Live Demo](#) *(Replace with the link to your live demo if available)*
 
 ## Installation
 1. Clone the repository or download the ZIP file.
